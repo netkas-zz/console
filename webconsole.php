@@ -1,4 +1,4 @@
-<?php
+<?PHP
 // Web Console v0.9.7 (2016-11-05)
 //
 // Author: Nickolay Kovalev (http://nickola.ru)
@@ -37,8 +37,6 @@ $HOME_DIRECTORY = '';
 //   - jQuery Mouse Wheel Plugin: https://github.com/brandonaaron/jquery-mousewheel
 //   - PHP JSON-RPC 2.0 Server/Client Implementation: https://github.com/sergeyfast/eazy-jsonrpc
 //   - Normalize.css: https://github.com/necolas/normalize.css
-?>
-<?php
 
 
     /**
